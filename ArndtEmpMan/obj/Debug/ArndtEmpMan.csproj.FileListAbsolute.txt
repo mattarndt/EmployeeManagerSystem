@@ -1,0 +1,50 @@
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csprojAssemblyReference.cache
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.frmEmpMan.resources
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.Properties.Resources.resources
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csproj.GenerateResource.cache
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csproj.CoreCompileInputs.cache
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.exe.config
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.exe
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.pdb
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.exe
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.pdb
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.exe.config
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.exe
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.pdb
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csprojAssemblyReference.cache
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.frmEmpMan.resources
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.Properties.Resources.resources
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csproj.GenerateResource.cache
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csproj.CoreCompileInputs.cache
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.exe
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.pdb
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.exe.config
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.exe
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.pdb
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csprojAssemblyReference.cache
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.frmEmpMan.resources
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.Properties.Resources.resources
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csproj.GenerateResource.cache
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csproj.CoreCompileInputs.cache
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.exe
+C:\Users\tug47424\Downloads\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.pdb
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.exe
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.pdb
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.frmEmpMan.resources
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csproj.GenerateResource.cache
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.exe
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.pdb
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.exe
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\bin\Debug\ArndtEmpMan.pdb
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csprojAssemblyReference.cache
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.frmEmpMan.resources
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.Properties.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csproj.GenerateResource.cache
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.exe
+C:\Users\Matthew\Documents\Visual Studio 2017\Projects\ArndtEmpMan\ArndtEmpMan\ArndtEmpMan\obj\Debug\ArndtEmpMan.pdb
