@@ -10,5 +10,5 @@ A lot of my time in this project went towards verification, ensureing that the f
 This project was one of the first times I actually dove straight in to inheritance. I had only learned about it conceptually before. I enjoyed making this system,
 as it helped me learn a lot and it is something that a company could actually need and use frequently.
 
-![](/images/img1.PNG)
-![](/images/img.PNG)
+![screenshot](/images/img1.PNG)
+![screenshot](/images/img.PNG)
