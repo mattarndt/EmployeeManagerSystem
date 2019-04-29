@@ -442,7 +442,7 @@
             this.Controls.Add(this.pnlClient);
             this.Controls.Add(this.lblWelcome);
             this.Name = "frmEmpMan";
-            this.Text = "Form1";
+            this.Text = "Employee Manager System";
             this.Load += new System.EventHandler(this.frmEmpMan_Load);
             this.pnlClient.ResumeLayout(false);
             this.pnlClient.PerformLayout();
