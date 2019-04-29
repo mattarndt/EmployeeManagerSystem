@@ -11,4 +11,4 @@ This project was one of the first times I actually dove straight in to inheritan
 as it helped me learn a lot and it is something that a company could actually need and use frequently.
 
 ![screenshot](/images/img1.PNG)
-![screenshot](/images/img.PNG)
+![screenshot](/images/img2.PNG)
